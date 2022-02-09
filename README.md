@@ -3,6 +3,8 @@ A Vuejs3 Mixin that allows you to open a print window of the contents given in a
 
 This package has originated from [vue-html-to-paper](https://github.com/mycurelabs/vue-html-to-paper)
 
+[Demo](https://codepen.io/Niickles/pen/podeVrL)
+
 ## Installation
 Run the following command
 ```npm install vue-html-to-print```
