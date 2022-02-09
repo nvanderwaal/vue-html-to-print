@@ -7,7 +7,7 @@ This package has originated from [vue-html-to-paper](https://github.com/mycurela
 Run the following command
 ```npm install vue-html-to-print```
 
-Usage inside ```main.js``` 
+Usage inside ```main.js```
 ```
 import { createApp } from 'vue'
 import HtmlToPrint from "vue-html-to-print";

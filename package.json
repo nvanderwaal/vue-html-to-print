@@ -1,0 +1,32 @@
+{
+  "name": "vue-html-to-print",
+  "version": "1.0.4",
+  "description": "A Vuejs3 Mixin that allows you to open a print window of the contents given",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickvdwaal/vue-html-to-print.git"
+  },
+  "keywords": [
+    "Vuejs3",
+    "print",
+    "html",
+    "printing",
+    "element",
+    "print html",
+    "print element"
+  ],
+  "devDependencies": {
+    "rollup": "^2.67.1"
+  },
+  "author": "Nick van der Waal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickvdwaal/vue-html-to-print/issues"
+  },
+  "homepage": "https://github.com/nickvdwaal/vue-html-to-print#readme"
+}
