@@ -48,5 +48,5 @@ When imported inside of your main.js file, the mixin is callable from your compo
 
 Optionally you can apply different options with each call by defining other options
 ```
-this.$htmlToPrint('print', { /* local options */ });
+this.$htmlToPrint('print');
 ```
