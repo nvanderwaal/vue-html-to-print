@@ -16,19 +16,6 @@ import HtmlToPrint from "vue-html-to-print";
 
 const app = createApp(App)
 
-const options = {
-    name: '_blank',
-    specs: [
-      'fullscreen=yes',
-      'titlebar=yes',
-      'scrollbars=yes'
-    ],
-    styles: [
-        '/styles.css',
-        'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css'
-    ]
-}
-
 app.use(HtmlToPrint, options).mount('#app')
 ```
 
