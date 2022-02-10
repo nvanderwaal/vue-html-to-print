@@ -16,7 +16,7 @@ import HtmlToPrint from "vue-html-to-print";
 
 const app = createApp(App)
 
-app.use(HtmlToPrint, options).mount('#app')
+app.use(HtmlToPrint).mount('#app')
 ```
 
 When imported inside of your main.js file, the mixin is callable from your component
